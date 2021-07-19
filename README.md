@@ -5,8 +5,7 @@
 > Software Engineering Manager of Application Development Center @KKBOX Taiwan Co., Ltd.
 
 - 🇹🇼 Taipei City, Taiwan
+- 🏫 National Taiwan University of Science and Technology
 - 🔍 [Medium](https://yihsuan-chen-s.medium.com/)
 - 🔍 [LinkedIn](https://www.linkedin.com/in/yihsuan-chen-s/)
 - 🔍 [Facebook](https://www.facebook.com/yihsuan.chen.s/)
-- 🏫 National Taiwan University of Science and Technology
-- 🏠 Taipei / Taichung / Yilan
