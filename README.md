@@ -1,6 +1,6 @@
 # Yihsuan.Chen.S
 
-<img src="https://www.kkbox.com/about/img/logo/kkbox-rebrand-blue.svg" width="400" height="120" /> 
+<img src="https://www.kkbox.com/about/img/logo/logo.svg" width="400" height="120" /> 
 
 ![](https://komarev.com/ghpvc/?username=yihsuan-chen-s&color=brightgreen)
 
